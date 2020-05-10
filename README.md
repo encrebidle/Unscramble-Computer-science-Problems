@@ -1,4 +1,4 @@
-# DSA_Project1
+# Data Structures and Algorithms
 Step 1 - Download the Files
 Download and open the zipped folder here. In the folder you will find five python files Task0.py, Task1.py, ...,Task4.py and two csv files calls.csv and texts.csv
 
